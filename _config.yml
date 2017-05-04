@@ -1,0 +1,23 @@
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.49909844947978854
+  lightness: 0.5113264394458383
+  saturation: 0.2733513708226383
+  rhythmicContrast: 0.5681054587475955
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: anastasiadehtiarova
+layout_spectrum: 0.3414314561523497
+typography_spectrum: 0.06647367193363607
+content: []
+github: true
